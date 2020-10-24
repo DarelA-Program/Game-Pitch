@@ -1,5 +1,3 @@
-# Game-Pitch
-My video game idea
 
 # Game-Pitch
 My video game idea
