@@ -1,0 +1,7 @@
+Allow readers to be able to get in touch to create a game in Greenfoot.
+
+Allow readers to create new projects.
+
+
+This project is licensed under the terms of Elohe Darel Argot
+Creative Commons Attribution 4.0

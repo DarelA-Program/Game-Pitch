@@ -1,0 +1,20 @@
+1. Game idea: You are playing as a bomb and the game is very similar to pacman.
+
+2. Scenario and characters: There are plenty of "coins" everywhere around
+		            the map with enemies walking around.
+
+3. Goal: The characters goal is to accumulate the amount of points before the
+	 timer ends.
+
+4. Win: Gain the amount of Points before the timer ends. Lose: Get caught
+	by the enemy or not gaining the amount of points in the time given.
+
+5. Progression levels: At a certain amount of points, the enemies will be faster
+		       to make it more challenging.
+
+6. PacMan
+
+7. Skills or interests: Someone who is comfortable with making a timer, working
+			with the right size of images to make the world look great!
+			Someone who can bring cool ideas to the game.
+   
